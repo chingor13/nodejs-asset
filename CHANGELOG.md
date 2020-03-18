@@ -4,6 +4,19 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/asset?activeTab=versions
 
+## [3.0.0](https://www.github.com/googleapis/nodejs-asset/compare/v2.2.0...v3.0.0) (2020-03-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* removed SearchResources and SearchIamPolicies from v1p1beta1 client
+
+### Features
+
+* adds v1p4beta1 API surface ([#285](https://www.github.com/googleapis/nodejs-asset/issues/285)) ([9dee03a](https://www.github.com/googleapis/nodejs-asset/commit/9dee03a546df19ae1fc92f25f07f994e010f4ac4))
+* deferred client initialization ([#281](https://www.github.com/googleapis/nodejs-asset/issues/281)) ([8148ab0](https://www.github.com/googleapis/nodejs-asset/commit/8148ab0e075c36e2c49d2af96791f83398529b87))
+* removed SearchResources and SearchIamPolicies from v1p1beta1 client ([184fd2f](https://www.github.com/googleapis/nodejs-asset/commit/184fd2fd3ee9cc32312f671398992f3b453fb78d))
+
 ## [2.2.0](https://www.github.com/googleapis/nodejs-asset/compare/v2.1.0...v2.2.0) (2020-02-27)
 
 
